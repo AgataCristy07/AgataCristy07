@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! Bem vindo ao meu perfil GitHub ! 
+## Me chamo Ágata Cristy, mas pode me chamar de Ágata 👋
 
-<!--
-**AgataCristy07/AgataCristy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo lógica de programação, Git e GitHub com os cursos da Alura.
 
-Here are some ideas to get you started:
+  Assim que concluir vou começar os cursos de Front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Meu objetivo é colaborar futuramente com o mundo da tecnologia na área da programação.
+
+- 🤔 Estou buscando ajuda nas areas de Front-end e Back-end, pois quero me tornar uma programadora Full Stack. 
+
+- ⚡ Fatos curiosos sobre mim: Pratico a arte marcial Jiu-Jitsu. Tenho experiência com vendas. E gosto muito da área de psicologia. 
+
